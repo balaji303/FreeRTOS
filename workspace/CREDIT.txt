@@ -1,0 +1,3 @@
+Thanks to -> https://github.com/niekiran/MasteringRTOS
+
+Special Thanks to -> https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/
