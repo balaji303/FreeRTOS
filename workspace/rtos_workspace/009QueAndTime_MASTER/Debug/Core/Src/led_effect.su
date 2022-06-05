@@ -1,0 +1,2 @@
+led_effect.c:9:6:ledEffectStop	4	static
+led_effect.c:14:6:ledEffect	16	static
